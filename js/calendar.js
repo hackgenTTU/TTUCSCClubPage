@@ -14,7 +14,7 @@ function calendar() {
 
 	var calendarWeek="<thead><tr><th scope='col' title='Monday'>M</th><th scope='col' title='Tuesday'>T</th><th scope='col' title='Wednesday'>W</th><th scope='col' title='Thursday'>T</th><th scope='col' title='Friday'>F</th><th scope='col' title='Saturday'>S</th><th scope='col' title='Sunday'>S</th></tr></thead>";
 	var calendarTable="<table> <caption>"+month+d.getFullYear()+"</caption> "+calendarWeek+"<tbody>"+"<tr><td colspan="+firstDate.getDay()+" class='pad'><span>&nbsp;</span></td>";
-	var w=firstDate.getDay;
+	var w=firstDate.getDay();
 	var date=1;
 
 	for ( ; date<=monthLength; date++,w++) {
