@@ -25,7 +25,7 @@ function calendar() {
 		if(date!=d.getDate()){
 			calendarTable+="<td><span>"+date+"</span></td>";
 		}else{
-			calendarTable+="<td><span class='today'>"+date+"</span></td>";
+			calendarTable+="<td class='today'><a href='#'>"+date+"</a></span></td>";
 		}
 	}
 	calendarTable+="<td class='pad' colspan="+((7-w)%7)+"><span>&nbsp;</span></td></tbody></table>";
