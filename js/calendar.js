@@ -32,4 +32,3 @@ function calendar() {
 
 	calendar.innerHTML=calendarTable;
 }	
-calendar();
