@@ -189,7 +189,7 @@
 		
 	#sidebar
 	{
-		position: fixed;
+		position: absolute;
 		top: 0;
 		padding: 3em 1.35em 1em 1.15em;
 		width: 14em; /* = whatever you want */
