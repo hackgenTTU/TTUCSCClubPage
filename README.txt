@@ -33,6 +33,6 @@ Credits:
 		CSS3 Pie (css3pie.com)
 		skel (n33.co)
 		
-### demo page:
-==
+demo page:
+
 	http://hackgenttu.github.io/TTUCSCClubPage.
