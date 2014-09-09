@@ -32,3 +32,6 @@ Credits:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
 		skel (n33.co)
+		
+### demo page:
+	http://hackgenttu.github.io/TTUCSCClubPage.
